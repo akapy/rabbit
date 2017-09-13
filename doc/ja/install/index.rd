@@ -24,6 +24,7 @@ Rabbitはgemまたはそれぞれのプラットフォームにあるパッケ�
 == Gentoo Linuxでのインストール方法
 
   % sudo env ACCEPT_KEYWORDS=~x86 FEATURES="digest" emerge rabbit
+  % 現在このコマンドではインストールできません。しばらくお待ちください。 
 
 == NetBSD（またはpkgsrcが使えるプラットフォーム）でのインストール方法
 
